@@ -4,11 +4,11 @@ This is an explicitly labeled publishing integration test, not a scientific stud
 
 ## Data and method
 
-The complete dataset in `data/values.csv` consists of the three values 1, 2, and 3. We calculate the arithmetic mean by summing all values and dividing by the number of values. The implementation is in `analysis.py`.
+The complete dataset in `data/values.csv` consists of the three values 2, 3, and 4. We calculate the arithmetic mean by summing all values and dividing by the number of values. The implementation is in `analysis.py`.
 
 ## Result
 
-The arithmetic mean of this three-value example dataset is 2. The sum is 6 and the sample size is 3, so 6 / 3 = 2. This result applies only to the stated illustrative dataset.
+The arithmetic mean of this three-value example dataset is 3. The sum is 9 and the sample size is 3, so 9 / 3 = 3. This result applies only to the stated illustrative dataset.
 
 ## Reproducibility
 
